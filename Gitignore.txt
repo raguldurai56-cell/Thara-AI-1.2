@@ -9,8 +9,21 @@ venv/
 __pycache__/
 *.pyc
 
+# Offline speech model (big - each user downloads it once)
+model/
+
+# Screenshots taken by Thara
+screenshots/
+
 # macOS
 .DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
 
 # VS Code settings (optional)
 .vscode/
