@@ -87,4 +87,4 @@ def show_startup_gif(root, gif_path):
     # Important: Don't block the mainloop
     # Return the window object so it can be managed externally
     return gif_window
-  
+    
